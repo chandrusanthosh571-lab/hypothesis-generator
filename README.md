@@ -65,11 +65,8 @@ pip install streamlit pandas
 streamlit run app.py
 ```
 
-### 3. Open browser
 
-```
-http://localhost:8501
-```
+
 
 ---
 
